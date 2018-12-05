@@ -1,0 +1,26 @@
+.toolbarContainer {
+  background-color: black;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  color: white;
+  padding: 13px;
+}
+.menuContainer {
+  display: flex;
+  margin-left: 10px;
+}
+.aboutLink {
+  margin-right: 30px;
+}
+.anchorStyle {
+  text-decoration: none;
+  color: white;
+  padding: 0 5px;
+}
+.activeStyle {
+  color: #2ab4d4;
+}
+img {
+  height: 22px;
+}

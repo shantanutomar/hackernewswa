@@ -1,0 +1,28 @@
+.commentTitle {
+  color: black;
+  font-size: 1.5em;
+  text-decoration: none;
+}
+.greyBorderStyle {
+  background-color: #f3f3f3;
+  display: block;
+  padding: 1em;
+  margin: 0px 0.2em;
+}
+.commentDetails {
+  padding-left: 35px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+#titleBox {
+  padding: 1em 0em 0em 2em;
+}
+#commentBreakLine {
+  display: block;
+  background-color: #f3f3f3;
+  padding: 1px;
+  margin: 0px 0.2em;
+}
+#allCommentItemBox {
+  padding-left: 35px;
+}
